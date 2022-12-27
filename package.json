@@ -15,7 +15,7 @@
     "express": "^4.17.1",
     "git": "^0.1.5",
     "hbs": "^4.0.4"
-  }
+  },
   "scripts": {
   "postinstall": "ng build"
   }
